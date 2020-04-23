@@ -1,5 +1,9 @@
 <script>
 export default {
+	globalData:{
+		appid: 'wx451e415a7b9a69bf',
+		appsecret: '1f5dbde56e2e6edbe7af882e4d83e8fa'
+	},
 	onLaunch: function() {
 		console.log('App Launch');
 	},
